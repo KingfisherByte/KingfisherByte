@@ -21,6 +21,3 @@ I'm a developer who's passionate about **privacy and security**, and currently d
   <img src="https://github-readme-stats.vercel.app/api?username=Konr4dox&show_icons=true&theme=dark" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konr4dox&layout=compact&theme=dark" alt="Top languages" />
 </p>
-
----
-![Visitor count](https://komarev.com/ghpvc/?username=Konr4dox&color=blueviolet&style=flat-square)
