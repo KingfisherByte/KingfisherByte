@@ -1,9 +1,15 @@
-# Hi, I'm KingfisherByte 👋
+# Hello there! 👋 I'm KingfisherByte
 
-I'm a **privacy & security enthusiast** 🔐, currently learning **Rust** 🦀.
+## About Me
+- 🔐 **Privacy & security enthusiast**
+- 🦀 Currently learning **Rust**
+- 🇪🇺 Based in Poland
+- 🎯 Goal: ship useful projects and keep learning
 
-- 🌱 Currently learning: Rust
-- 🔒 Focused on: privacy, security & open-source software
-- 💬 Ask me about: privacy tools & self-hosting
-
-*"Learning Rust — one borrow checker error at a time."*
+## What I'm Up To
+```rust
+let me = Developer {
+    learning: "Rust",
+    cares_about: ["privacy", "security"],
+    enjoying_every_minute: true,
+};
